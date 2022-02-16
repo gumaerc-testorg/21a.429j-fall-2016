@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e28e368f-e5e4-eac1-d181-8c0d8a3b8214
 ---
@@ -30,7 +33,7 @@ uid: e28e368f-e5e4-eac1-d181-8c0d8a3b8214
 
 \[WI\] = Williams, Raymond. _The Country and the City_. Oxford University Press, 1975. ISBN: 9780195198102. \[Preview with [Google Books](http://books.google.com/books?id=3o57NbjApJkC&pg=PAfrontcover)\]
 
-\[WO\] = Worster, Donald. _Nature's Economy: A History of Ecological Ideas_. 2nd edition. Cambridge University Press, 1994. ISBN: 9780521468343. \[Preview with [Google Books](http://books.google.com/books?id=2Ng-5B5H2wcC&pg=PAfrontcover)\]
+\[WO\] = Worster, Donald. _Nature's Economy: A History of Ecological Ideas_. 2{{< sup "nd" >}} edition. Cambridge University Press, 1994. ISBN: 9780521468343. \[Preview with [Google Books](http://books.google.com/books?id=2Ng-5B5H2wcC&pg=PAfrontcover)\]
 
 Note: Students are not responsible for reading "recommended readings"—these readings are merely FYI, for consideration for final papers or for future exploration.
 
