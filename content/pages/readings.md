@@ -194,7 +194,7 @@ Paxson, Heather. "[Post-Pasteurian Cultures: The Microbiopolitics of Raw-Milk Ch
 
 ### View
 
-[*Sweetgrass*](http://sweetgrassthemovie.com/). Directed by Ilisa Barbash and Lucien Castaing-Taylor. Color, 101 min. 2009.
+[*Sweetgrass*](https://www.imdb.com/title/tt1517252/?ref_=fn_al_tt_1). Directed by Ilisa Barbash and Lucien Castaing-Taylor. Color, 101 min. 2009.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -252,7 +252,7 @@ Portelli, Alessandro. "[The Peculiarities of Oral History](http://www.jstor.org/
 
 ### Recommended
 
-Chapin, Mac. ["A Challenge to Conservationists." (PDF)](http://www.worldwatch.org/system/files/EP176A.pdf) *World Watch* 17, no. 6 (2004): 17–31.
+Chapin, Mac. "[A Challenge to Conservationists](https://www.researchgate.net/publication/237244875_A_Challenge_to_Conservationist)." *World Watch* 17, no. 6 (2004): 17–31.
 
 Hathaway, Michael. "[The Emergence of Indigeneity: Public Intellectuals and an Indigenous Space in Southwest China](https://doi.org/10.1111/j.1548-1360.2010.01060.x)." *Cultural Anthropology* 25, no. 2 (2010): 301–33.
 
