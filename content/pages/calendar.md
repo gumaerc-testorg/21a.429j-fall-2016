@@ -38,7 +38,7 @@ Ecologies: Differing Understandings from Human Ecology, Cultural Ecology, Politi
 {{< tdclose >}}{{< tdopen >}}
 Reaction paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-*Field trip:* [*Mount Auburn Cemetery*](http://mountauburn.org/)*, Cambridge, MA*
+*Field trip:* {{% resource_link "d2d3fc78-f635-47c3-993e-ed84530f0a32" "*Mount Auburn Cemetery*" %}}*, Cambridge, MA*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
@@ -115,7 +115,7 @@ Energy
 
 ### Screening
 
-[*GasLand*](https://www.imdb.com/title/tt1558250/?ref_=fn_al_tt_1). Directed by Josh Fox. Color, 107 min. 2010.
+{{% resource_link "9bb5c1eb-b181-4f9e-996b-b9f9fd25ab59" "*GasLand*" %}}. Directed by Josh Fox. Color, 107 min. 2010.
 
 {{< tdclose >}}{{< tdopen >}}
 Reaction paper due
