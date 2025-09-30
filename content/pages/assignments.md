@@ -27,4 +27,4 @@ The final paper will be worth 40% of the final grade. The oral presentation and 
 Extra Credit (Or a Makeup if You Miss the Field Trip to Mount Auburn Cemetery)
 ------------------------------------------------------------------------------
 
-Take a ferry boat to [Spectacle Island](http://www.bostonharborislands.org/spectacle-island). Write a response-style 1–2 page paper on the histories of Spectacle Island and changing conceptions of "nature" such that "parks" are increasingly built out of "wastelands."
+Take a ferry boat to {{% resource_link "48cb8eb7-76a9-4055-a155-ce32b9a49bef" "Spectacle Island" %}}. Write a response-style 1–2 page paper on the histories of Spectacle Island and changing conceptions of "nature" such that "parks" are increasingly built out of "wastelands."

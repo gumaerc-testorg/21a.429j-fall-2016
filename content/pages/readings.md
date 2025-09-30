@@ -18,23 +18,23 @@ uid: e28e368f-e5e4-eac1-d181-8c0d8a3b8214
 
 \[H\] = Haraway, Donna. *The Companion Species Manifesto: Dogs, People, and Significant Otherness*. Prickly Paradigm Press, 2003. ISBN: 9780971757585.
 
-\[HE\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262526869) Hecht, Gabrielle. *Being Nuclear: Africans and the Global Uranium Trade*. MIT Press, 2014. ISBN: 9780262526869.
+\[HE\] = {{% resource_link "71b40238-4d71-4cd4-ac04-21b77029b18b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hecht, Gabrielle. *Being Nuclear: Africans and the Global Uranium Trade*. MIT Press, 2014. ISBN: 9780262526869.
 
 \[L\] = Langston, Nancy. *Toxic Bodies: Hormone Disruptors and the Legacy of DES.* Yale University Press, 2011. ISBN: 9780300171372.
 
-\[M\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262027243) Mavhunga, Clapperton Chakanetsa. *Transient Workspaces: Technologies of Everyday Innovation in Zimbabwe*. MIT Press, 2014. ISBN: 9780262027243. \[Preview with [Google Books](http://books.google.com/books?id=vRyEBAAAQBAJ&pg=PAfrontcover)\]
+\[M\] = {{% resource_link "b04b4f18-2521-4380-94b2-d7717dfeb668" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mavhunga, Clapperton Chakanetsa. *Transient Workspaces: Technologies of Everyday Innovation in Zimbabwe*. MIT Press, 2014. ISBN: 9780262027243. \[Preview with {{% resource_link "1a197ee4-a29e-458e-9496-b50543471f31" "Google Books" %}}\]
 
-\[MU\] = Murphy, Michelle. *Sick Building Syndrome and the Problem of Uncertainty: Environmental Politics, Technoscience, and Women Workers*. Duke University Press, 2006. ISBN: 9780822336716. \[Preview with [Google Books](http://books.google.com/books?id=GwEcFRhKh-MC&pg=PAfrontcover)\]
+\[MU\] = Murphy, Michelle. *Sick Building Syndrome and the Problem of Uncertainty: Environmental Politics, Technoscience, and Women Workers*. Duke University Press, 2006. ISBN: 9780822336716. \[Preview with {{% resource_link "3a44252d-57a9-496a-87f3-65229438c1c2" "Google Books" %}}\]
 
 \[R\] = Raffles, Hugh. *Insectopedia.* Vintage, 2011. ISBN: 9781400096961.
 
-\[S\] = Sellers, Christopher C. *Hazards of the Job: From Industrial Disease to Environmental Health Science.* University of North Carolina Press, 1999. ISBN: 9780807847985. \[Preview with [Google Books](http://books.google.com/books?id=IZEP3lyVMRgC&pg=PAfrontcover)\]
+\[S\] = Sellers, Christopher C. *Hazards of the Job: From Industrial Disease to Environmental Health Science.* University of North Carolina Press, 1999. ISBN: 9780807847985. \[Preview with {{% resource_link "bad6a683-882c-4b3d-b8a2-33c7c7e2430c" "Google Books" %}}\]
 
-\[W\] = Walley, Christine J. *Rough Waters: Nature and Development in an East African Marine Park*. Princeton University Press, 2004. ISBN: 9780691115603. \[Preview with [Google Books](http://books.google.com/books?id=ZN0Ro4EJeZgC&pg=PAfrontcover)\]
+\[W\] = Walley, Christine J. *Rough Waters: Nature and Development in an East African Marine Park*. Princeton University Press, 2004. ISBN: 9780691115603. \[Preview with {{% resource_link "3350eb0b-b85c-45c8-9e0f-3818675c86b1" "Google Books" %}}\]
 
-\[WI\] = Williams, Raymond. *The Country and the City*. Oxford University Press, 1975. ISBN: 9780195198102. \[Preview with [Google Books](http://books.google.com/books?id=3o57NbjApJkC&pg=PAfrontcover)\]
+\[WI\] = Williams, Raymond. *The Country and the City*. Oxford University Press, 1975. ISBN: 9780195198102. \[Preview with {{% resource_link "2092c5de-f7e5-4b56-96d0-4705ca04e585" "Google Books" %}}\]
 
-\[WO\] = Worster, Donald. *Nature's Economy: A History of Ecological Ideas*. 2{{< sup "nd" >}} edition. Cambridge University Press, 1994. ISBN: 9780521468343. \[Preview with [Google Books](http://books.google.com/books?id=2Ng-5B5H2wcC&pg=PAfrontcover)\]
+\[WO\] = Worster, Donald. *Nature's Economy: A History of Ecological Ideas*. 2{{< sup "nd" >}} edition. Cambridge University Press, 1994. ISBN: 9780521468343. \[Preview with {{% resource_link "90f7d697-a21b-4317-8539-53cf6c38634e" "Google Books" %}}\]
 
 Note: Students are not responsible for reading "recommended readings"—these readings are merely FYI, for consideration for final papers or for future exploration.
 
@@ -100,7 +100,7 @@ Park, Robert E. "The City: Suggestions for the Investigation of Human Behavior i
 
 ### On Cultural Ecology
 
-Steward, Julian. "The Concept and Method of Cultural Ecology." Chapter 1 in *The Environment in Anthropology: A Reader in Ecology, Culture, and Sustainable Living*. 2nd edition. Edited by Nora Haenn, Richard R. Wilk, and Allison Harnish. New York University Press, 2016. ISBN: 9781479876761. \[Preview with [Google Books](http://books.google.com/books?id=PAvMCgAAQBAJ&pg=PA12=onepage)\]
+Steward, Julian. "The Concept and Method of Cultural Ecology." Chapter 1 in *The Environment in Anthropology: A Reader in Ecology, Culture, and Sustainable Living*. 2nd edition. Edited by Nora Haenn, Richard R. Wilk, and Allison Harnish. New York University Press, 2016. ISBN: 9781479876761. \[Preview with {{% resource_link "61252449-6f47-4b33-8140-5723a34774a1" "Google Books" %}}\]
 
 ———. "The Great Basin Shoshonean Indians: An Example of a Family Level of Sociocultural Integration." Chapter 6 in *Environmental Anthropology: A Historical Reader*. Edited by Michael R. Dove and Carol Carpenter. Wiley-Blackwell, 2007. ISBN: 9781405111379.
 
@@ -112,19 +112,19 @@ Steward, Julian. "The Concept and Method of Cultural Ecology." Chapter 1 in *The
 
 ### On Political Ecology
 
-Neumann, R. P. "[Political Ecology of Wildlife Conservation in the Mt. Meru Area of Northwest Tanzania](https://doi.org/10.1002/ldr.3400030203)." *Land Degradation & Rehabilitation* 3, no. 2 (1992): 85–98.
+Neumann, R. P. "{{% resource_link "f4fd3845-ac11-4dd2-a45d-3cfb65eb8a6b" "Political Ecology of Wildlife Conservation in the Mt. Meru Area of Northwest Tanzania" %}}." *Land Degradation & Rehabilitation* 3, no. 2 (1992): 85–98.
 
 Robbins, Paul. "The Hatchet and the Seed." Chapter 1 in *Political Ecology: A Critical Introduction.* Blackwell Publishing, 2004. ISBN: 9781405102667.
 
 ### On Postindustrial Ecologies
 
-Chelcea, Liviu. "[Postindustrial Ecologies: Industrial Rubble, Nature and the Limits of Representation](https://doi.org/10.4000/pa.448)." *Parcours Anthropologiques* 10 (2015): 186–201.
+Chelcea, Liviu. "{{% resource_link "45af2b19-7570-4571-a709-10ec59a59d81" "Postindustrial Ecologies: Industrial Rubble, Nature and the Limits of Representation" %}}." *Parcours Anthropologiques* 10 (2015): 186–201.
 
 ### Recommended
 
-Biersack, Aletta. "Reimagining Political Ecology: Culture / Power / History / Nature." In *Reimagining Political Ecology.* Edited by Aletta Biersack and James B. Greenberg. Duke University Press, 2006. ISBN: 9780822336723. \[Preview with [Google Books](http://books.google.com/books?id=Lwi2JDi9vBwC&pg=PA3=onepage)\]
+Biersack, Aletta. "Reimagining Political Ecology: Culture / Power / History / Nature." In *Reimagining Political Ecology.* Edited by Aletta Biersack and James B. Greenberg. Duke University Press, 2006. ISBN: 9780822336723. \[Preview with {{% resource_link "3e9c793b-008b-42a3-9fe6-b8ddd9823208" "Google Books" %}}\]
 
-Goldman, Mara J., and Matthew D. Turner. "Introduction." In *Knowing Nature: Conversations at the Intersection of Political Ecology and Science* Studies. Edited by Mara J. Goldman, Paul Nadasdy, and Matthew D. Turner. University of Chicago Press, 2011. ISBN: 9780226301419. \[Preview with [Google Books](http://books.google.com/books?id=IS0oIVWrKoUC&pg=PA1=onepage)\]
+Goldman, Mara J., and Matthew D. Turner. "Introduction." In *Knowing Nature: Conversations at the Intersection of Political Ecology and Science* Studies. Edited by Mara J. Goldman, Paul Nadasdy, and Matthew D. Turner. University of Chicago Press, 2011. ISBN: 9780226301419. \[Preview with {{% resource_link "2a17c359-cc38-43ed-b993-8d980f8a24e5" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -136,23 +136,23 @@ Agencies
 
 {{< tdclose >}}{{< tdopen >}}
 
-Ahearn, Laura M. "[Language and Agency](https://doi.org/10.1146/annurev.anthro.30.1.109)." *Annual Review of Anthropology* 30 (2001): 109–37.
+Ahearn, Laura M. "{{% resource_link "50c327b2-692c-46e0-95a3-1314f4d8f2e0" "Language and Agency" %}}." *Annual Review of Anthropology* 30 (2001): 109–37.
 
 Callon, Michel. "Some Elements of a Sociology of Translation: Domestication of the Scallops and Fishermen of St. Brieuc's Bay." In *Power, Action and Belief: A New Sociology of Knowledge?* Edited by John Law. Routledge Kegan & Paul, 1987. ISBN: 9780710208026.
 
-Fortun, Kim. "[From Latour to Late Industrialism](https://doi.org/10.14318/hau4.1.017)." *HAU: Journal of Ethnographic Theory* 4, no. 1 (2014): 309–29.
+Fortun, Kim. "{{% resource_link "4419f6a0-8f0d-4723-9010-4099cf2953b6" "From Latour to Late Industrialism" %}}." *HAU: Journal of Ethnographic Theory* 4, no. 1 (2014): 309–29.
 
 Latour, Bruno. "Third Source of Uncertainty: Objects too Have Agency." In *Reassembling the Social: An Introduction to Actor-Network-Theory.* Oxford University Press, 2007. ISBN: 9780199256051.
 
-———. ["Anthropology at the Time of the Anthropocene - A Personal View of What is to be Studied." (PDF)](http://www.bruno-latour.fr/sites/default/files/139-AAA-Washington.pdf) Distinguished Lecture, American Association of Anthopologists, December 2014.
+———. {{% resource_link "d0c3bff7-cb17-4f95-8b60-8d40a856bcc1" "\"Anthropology at the Time of the Anthropocene - A Personal View of What is to be Studied.\" (PDF)" %}} Distinguished Lecture, American Association of Anthopologists, December 2014.
 
-———. "[Colloquium: Another Way to Compose the Common World](https://www.haujournal.org/index.php/hau/article/view/hau4.1.016/592)." *HAU: Journal of Ethnographic Theory* 4, no. 1 (2014): 301–7.
+———. "{{% resource_link "a8ca88f5-e10d-4c52-b5d0-a58cef1c140d" "Colloquium: Another Way to Compose the Common World" %}}." *HAU: Journal of Ethnographic Theory* 4, no. 1 (2014): 301–7.
 
-Ortner, Sherry B. "[Specifying Agency: The Comaroffs and Their Critics](https://doi.org/10.1080/13698010020027038)." *Interventions* 3, no. 1 (2001): 76–84.
+Ortner, Sherry B. "{{% resource_link "e74fb82c-8741-401a-a33b-1925deed75e1" "Specifying Agency: The Comaroffs and Their Critics" %}}." *Interventions* 3, no. 1 (2001): 76–84.
 
 ### Recommended
 
-de Castro, Eduardo Viveiros. "[Who is Afraid of the Ontological Wolf?: Some Comments on an Ongoing Anthropological Debate](https://doi.org/10.3167/ca.2015.330102)." *Cambridge Journal of Anthropology* 33, no. 1 (2015): 2–17.
+de Castro, Eduardo Viveiros. "{{% resource_link "13b2eb72-99c8-4613-94d8-92bf5868e63f" "Who is Afraid of the Ontological Wolf?: Some Comments on an Ongoing Anthropological Debate" %}}." *Cambridge Journal of Anthropology* 33, no. 1 (2015): 2–17.
 
 Latour, Bruno. "Give Me a Laboratory and I Will Raise the World." Chapter 6 in *Science Observed: Perspectives on the Social Study of Science*. Edited by Karin D. Knorr-Cetina and Michael Mulkay. Sage Publications, 1983. ISBN: 9780803997820.
 
@@ -182,19 +182,19 @@ Species: Thinking Across Boundaries
 
 \[R\] "Notes." pp. 387–94.
 
-Helmreich, Stefan. "Introduction: Life at Sea." In *Alien Ocean: Anthropological Voyages in Microbial Seas*. University of California Press, 2009. ISBN: 9780520250628. \[Preview with [Google Books](http://books.google.com/books?id=X7IwDwAAQBAJ&pg=PA1=onepage)\]
+Helmreich, Stefan. "Introduction: Life at Sea." In *Alien Ocean: Anthropological Voyages in Microbial Seas*. University of California Press, 2009. ISBN: 9780520250628. \[Preview with {{% resource_link "885e25d4-5848-407e-92e1-342a20fd56f9" "Google Books" %}}\]
 
 ———. "The Message from the Mud: Making Meaning Out of Microbes in Monterey Bay." Chapter 1 in *Alien Ocean: Anthropological Voyages in Microbial Seas*. University of California Press, 2009. ISBN: 9780520250628.
 
-Kirksey, S. Eben, and Stefan Helmreich. "[The Emergence of Multispecies Ethnography](https://doi.org/10.1111/j.1548-1360.2010.01069.x)." *Cultural Anthropology* 25, no. 4 (2010): 545–76.
+Kirksey, S. Eben, and Stefan Helmreich. "{{% resource_link "77a75045-b15d-4a85-aa6f-ce0477e58c43" "The Emergence of Multispecies Ethnography" %}}." *Cultural Anthropology* 25, no. 4 (2010): 545–76.
 
-Kohn, Eduardo. "[How Dogs Dream: Amazonian Natures and the Politics of Transspecies Engagements](https://doi.org/10.1525/ae.2007.34.1.3)." *American Ethnologist* 34, no. 1 (2007): 3–24.
+Kohn, Eduardo. "{{% resource_link "d86fc8da-b67f-4bf8-8dae-9a7304f6cdda" "How Dogs Dream: Amazonian Natures and the Politics of Transspecies Engagements" %}}." *American Ethnologist* 34, no. 1 (2007): 3–24.
 
-Paxson, Heather. "[Post-Pasteurian Cultures: The Microbiopolitics of Raw-Milk Cheese in the United States](https://doi.org/10.1111/j.1548-1360.2008.00002.x)." *Cultural Anthropology* 23, no. 1 (2008): 15–47.
+Paxson, Heather. "{{% resource_link "814e30f5-b663-4f0d-a15c-942b9723a264" "Post-Pasteurian Cultures: The Microbiopolitics of Raw-Milk Cheese in the United States" %}}." *Cultural Anthropology* 23, no. 1 (2008): 15–47.
 
 ### View
 
-[*Sweetgrass*](https://www.imdb.com/title/tt1517252/?ref_=fn_al_tt_1). Directed by Ilisa Barbash and Lucien Castaing-Taylor. Color, 101 min. 2009.
+{{% resource_link "9fe36454-6f04-49c6-8a7e-fe639bd1db1b" "*Sweetgrass*" %}}. Directed by Ilisa Barbash and Lucien Castaing-Taylor. Color, 101 min. 2009.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -216,15 +216,15 @@ Knowledges: How We Know and Whose Knowledge Counts?
 
 \[M\] Chapter 5: The Professoriate of the Hunt and the Tsetse Fly.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262532723) Corburn, Jason. "Risk Assessment, Community Knowledge, and Subsistence Anglers." Chapter 3 in *Street Science: Community Knowledge and Environmental Health Justice*. MIT Press, 2005. ISBN: 9780262532723.
+{{% resource_link "8d8b3d30-2f1c-4945-9beb-9df462161f36" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Corburn, Jason. "Risk Assessment, Community Knowledge, and Subsistence Anglers." Chapter 3 in *Street Science: Community Knowledge and Environmental Health Justice*. MIT Press, 2005. ISBN: 9780262532723.
 
-Lave, Jean. "Introduction: Psychology and Anthropology I." Chapter 1 in *Cognition in Practice: Mind, Mathematics, and Culture in Everyday Life*. Cambridge University Press, 1988. ISBN: 9780521357340. \[Preview with [Google Books](http://books.google.com/books?id=n6eiH3iPVKYC&pg=PA1=onepage)\]
+Lave, Jean. "Introduction: Psychology and Anthropology I." Chapter 1 in *Cognition in Practice: Mind, Mathematics, and Culture in Everyday Life*. Cambridge University Press, 1988. ISBN: 9780521357340. \[Preview with {{% resource_link "e310fe55-2134-4295-b335-b0454c52e724" "Google Books" %}}\]
 
-———. "Inside the Supermarket (Outdoors) and From the Veranda." Chapter 5 in *Cognition in Practice: Mind, Mathematics, and Culture in Everyday Life*. Cambridge University Press, 1988. ISBN: 9780521357340. \[Preview with [Google Books](http://books.google.com/books?id=n6eiH3iPVKYC&pg=PA97=onepage)\]
+———. "Inside the Supermarket (Outdoors) and From the Veranda." Chapter 5 in *Cognition in Practice: Mind, Mathematics, and Culture in Everyday Life*. Cambridge University Press, 1988. ISBN: 9780521357340. \[Preview with {{% resource_link "9e907971-aade-4916-8644-06ed17be4de8" "Google Books" %}}\]
 
-Pigg, Stacy Leigh. "[The Credible and the Credulous: The Question of 'Villagers' Beliefs' in Nepal](http://www.jstor.org/stable/656447)." *Cultural Anthropology* 11, no. 2 (1996): 160–201.
+Pigg, Stacy Leigh. "{{% resource_link "e404918b-a22d-4400-9fb6-36a1e50d049c" "The Credible and the Credulous: The Question of 'Villagers' Beliefs' in Nepal" %}}." *Cultural Anthropology* 11, no. 2 (1996): 160–201.
 
-Walley, Christine J. "'[They Scorn Us Because We are Uneducated': Knowledge and Power in a Tanzanian Marine Park](http://www.jstor.org/stable/24048111)." *Ethnography* 3, no. 3 (2002): 265–98.
+Walley, Christine J. "'{{% resource_link "8c3081c8-ce19-4ac5-8467-5aef79c4c1c1" "They Scorn Us Because We are Uneducated': Knowledge and Power in a Tanzanian Marine Park" %}}." *Ethnography* 3, no. 3 (2002): 265–98.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -248,15 +248,15 @@ Ethnographies
 
 Lutz, Catherine. "The Gender of Theory." Chapter 12 in *Women Writing Culture*. Edited by Ruth Behar and Deborah A. Gordon. University of California Press, 1996. ISBN: 9780520202085.
 
-Portelli, Alessandro. "[The Peculiarities of Oral History](http://www.jstor.org/stable/4288379)." *History Workshop* 12 (1981): 96–107.
+Portelli, Alessandro. "{{% resource_link "46bfabb5-947c-4231-8e29-903b6a9d1ac4" "The Peculiarities of Oral History" %}}." *History Workshop* 12 (1981): 96–107.
 
 ### Recommended
 
-Chapin, Mac. "[A Challenge to Conservationists](https://www.researchgate.net/publication/237244875_A_Challenge_to_Conservationist)." *World Watch* 17, no. 6 (2004): 17–31.
+Chapin, Mac. "{{% resource_link "22634f21-e82a-443f-b719-1616c788f390" "A Challenge to Conservationists" %}}." *World Watch* 17, no. 6 (2004): 17–31.
 
-Hathaway, Michael. "[The Emergence of Indigeneity: Public Intellectuals and an Indigenous Space in Southwest China](https://doi.org/10.1111/j.1548-1360.2010.01060.x)." *Cultural Anthropology* 25, no. 2 (2010): 301–33.
+Hathaway, Michael. "{{% resource_link "9f8e83a2-95d6-445d-984f-152f7425e2f2" "The Emergence of Indigeneity: Public Intellectuals and an Indigenous Space in Southwest China" %}}." *Cultural Anthropology* 25, no. 2 (2010): 301–33.
 
-Hughes, David McDermott. "[Third Nature: Making Space and Time in the Great Limpopo Conservation Area](https://doi.org/10.1525/can.2005.20.2.157)." *Cultural Anthropology* 20, no. 2 (2005): 157–84.
+Hughes, David McDermott. "{{% resource_link "83c28104-8371-449b-8ac8-f92eef933b88" "Third Nature: Making Space and Time in the Great Limpopo Conservation Area" %}}." *Cultural Anthropology* 20, no. 2 (2005): 157–84.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -282,7 +282,7 @@ Toxics (1)
 
 \[S\] "Conclusion: Ordering Toxicity from the Workplace to the Environment."
 
-Murphy, Michelle. "[Distributed Reproduction, Chemical Violence, and Latency](http://sfonline.barnard.edu/life-un-ltd-feminism-bioscience-race/distributed-reproduction-chemical-violence-and-latency/)." *Scholar and Feminist Online* 11, no. 3 (2013).
+Murphy, Michelle. "{{% resource_link "5bd81d48-8e8e-4ddc-8ae8-87a3201ae57c" "Distributed Reproduction, Chemical Violence, and Latency" %}}." *Scholar and Feminist Online* 11, no. 3 (2013).
 
 Nash, Linda. "Modern Landscapes and Ecological Bodies." Chapter 4 in *Inescapable Ecologies: A History of Environment, Disease, and Knowledge.* University of California Press, 2007. ISBN: 9780520248878.
 
@@ -290,9 +290,9 @@ Nash, Linda. "Modern Landscapes and Ecological Bodies." Chapter 4 in *Inescapabl
 
 ### Articles Related to the Lead Poisoning Crisis in Flint, MI.
 
-Sorkin, Amy Davidson. "[The Contempt that Poisoned Flint's Water](http://www.newyorker.com/news/amy-davidson/the-contempt-that-poisoned-flints-water)." *The New Yorker*, January 22, 2016.
+Sorkin, Amy Davidson. "{{% resource_link "199ff897-94b9-487f-9a34-f4ad189ebef7" "The Contempt that Poisoned Flint's Water" %}}." *The New Yorker*, January 22, 2016.
 
-Finnegan, William. "[Flint and the Long Struggle Against Lead Poisoning](http://www.newyorker.com/news/daily-comment/flint-and-the-long-struggle-against-lead-poisoning)." *The New Yorker*, February 4, 2016.
+Finnegan, William. "{{% resource_link "56decc33-514a-47f3-aca9-8760f4e8447e" "Flint and the Long Struggle Against Lead Poisoning" %}}." *The New Yorker*, February 4, 2016.
 
 ### Recommended
 
@@ -324,31 +324,31 @@ Toxics (2)
 
 \[L\] Chapter 5: Modern Meat: Hormones in Livestock.
 
-Borell, Brendan. "[The Big Test for Bisphenol A](https://doi.org/10.1038/4641122a)." *Nature* 464, no. 22 (2010): 1122–24.
+Borell, Brendan. "{{% resource_link "7a88c609-1e33-4b1f-89a6-d9551481532a" "The Big Test for Bisphenol A" %}}." *Nature* 464, no. 22 (2010): 1122–24.
 
-Colborn, Theo, Frederick S. vom Saal, and Ana M. Soto. "[Developmental Effects of Endocrine-Disrupting Chemicals in Wildlife and Humans](http://www.jstor.org/stable/3431890)." *Environmental Health Perspectives* 101, no. 5 (1993): 378–84.
+Colborn, Theo, Frederick S. vom Saal, and Ana M. Soto. "{{% resource_link "348917df-008a-4547-b2e0-896912b089ad" "Developmental Effects of Endocrine-Disrupting Chemicals in Wildlife and Humans" %}}." *Environmental Health Perspectives* 101, no. 5 (1993): 378–84.
 
-Lock, Margaret. "[Comprehending the Body in the Era of the Epigenome](http://www.jstor.org/stable/10.1086/680350)." *Current Anthropology* 56, no. 2 (2015): 151–77.
+Lock, Margaret. "{{% resource_link "98fa860d-6445-446d-8d4e-dca44c3a6b6e" "Comprehending the Body in the Era of the Epigenome" %}}." *Current Anthropology* 56, no. 2 (2015): 151–77.
 
-Vogel, Sarah A. "[From 'The Dose Makes the Poison' to 'The Timing Makes the Poison': Conceptualizing Risk in a Synthetic Age](http://www.jstor.org/stable/25473294)." *Environmental History* 13, no. 4 (2006): 667–73.
+Vogel, Sarah A. "{{% resource_link "64c3486e-8c06-42ca-85e1-f83837539e77" "From 'The Dose Makes the Poison' to 'The Timing Makes the Poison': Conceptualizing Risk in a Synthetic Age" %}}." *Environmental History* 13, no. 4 (2006): 667–73.
 
-———. "[The Politics of Plastic: The Making and Unmaking of Bisphenol A 'Safety'](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2774166/)." *American Journal of Public Health* 99, no. S3 (2009): S559–66.
+———. "{{% resource_link "fc00360d-17c1-4ba7-a9cd-5b7ff3c84df6" "The Politics of Plastic: The Making and Unmaking of Bisphenol A 'Safety'" %}}." *American Journal of Public Health* 99, no. S3 (2009): S559–66.
 
-Myers, John Peterson, Frederick S. vom Saal, et al. "[Why Public Health Agencies Cannot Depend on Good Laboratory Practices as a Criterion for Selecting Data: The Case of Bisphenol A](https://doi.org/10.1289/ehp.0800173)." *Environmental Health Perspectives* 117, no. 3 (2009): 309–15.
+Myers, John Peterson, Frederick S. vom Saal, et al. "{{% resource_link "b414fa9b-a3a3-4939-b9d6-b710347ae9ac" "Why Public Health Agencies Cannot Depend on Good Laboratory Practices as a Criterion for Selecting Data: The Case of Bisphenol A" %}}." *Environmental Health Perspectives* 117, no. 3 (2009): 309–15.
 
 ### The following readings are associated correspondence to the Myers, et al., reading above.
 
-Becker, Richard A., Erik R. Janus, et al. "[Good Laboratory Practices and Safety Assessments](https://doi.org/10.1289/ehp.0900884)." *Environmental Health Perspectives* 117, no. 11 (2009): A482-3.
+Becker, Richard A., Erik R. Janus, et al. "{{% resource_link "487fef6b-737b-4a7f-a93e-d298d747f531" "Good Laboratory Practices and Safety Assessments" %}}." *Environmental Health Perspectives* 117, no. 11 (2009): A482-3.
 
-Myers, John Peterson, Frederick S. vom Sall, et al. "[Good Laboratory Practices: Myers et al. Respond](https://doi.org/10.1289/ehp.0900884R)." *Environmental Health Perspectives* 117, no. 11 (2009): A483-4.
+Myers, John Peterson, Frederick S. vom Sall, et al. "{{% resource_link "aee3a64a-def5-45f9-9e39-90aba13e146f" "Good Laboratory Practices: Myers et al. Respond" %}}." *Environmental Health Perspectives* 117, no. 11 (2009): A483-4.
 
-Kundi, Michael, Lennart Hardell, et al. "[Electromagnetic Fields and the Precautionary Principle](https://doi.org/10.1289/ehp.0901111)." *Environmental Health Perspectives* 117, no. 11 (2009): A484-5.
+Kundi, Michael, Lennart Hardell, et al. "{{% resource_link "544933dc-f5b0-489d-bc4c-a40899c08e43" "Electromagnetic Fields and the Precautionary Principle" %}}." *Environmental Health Perspectives* 117, no. 11 (2009): A484-5.
 
-vom Saal, Frederick S., John Peterson Meyers, et al. "[Good Laboratory Practices Are Not Synonymous with Good Scientific Practices, Accurate Reporting, or Valid Data](https://doi.org/10.1289/ehp.0901495)." *Environmental Health Perspectives* 118, no. 2 (2010): A60-1.
+vom Saal, Frederick S., John Peterson Meyers, et al. "{{% resource_link "dc545bc4-cbd6-4c57-9934-524b3ee2fcbe" "Good Laboratory Practices Are Not Synonymous with Good Scientific Practices, Accurate Reporting, or Valid Data" %}}." *Environmental Health Perspectives* 118, no. 2 (2010): A60-1.
 
-Tyl, Rochelle W. "[Good Laboratory Practices: Tyl Responds](https://doi.org/10.1289/ehp.0901495R)." *Environmental Health Perspectives* 118, no. 2 (2010): A60-1.
+Tyl, Rochelle W. "{{% resource_link "98aab8e0-6890-450e-9fef-6332a1e727bd" "Good Laboratory Practices: Tyl Responds" %}}." *Environmental Health Perspectives* 118, no. 2 (2010): A60-1.
 
-———. "[Basic Exploratory Research versus Guideline-Compliant Studies Used for Hazard Evaluation and Risk Assessment: Bisphenol A as a Case Study](https://doi.org/10.1289/ehp.0900893)." *Environmental Health Perspectives* 117, no. 11 (2009): 1644–51.
+———. "{{% resource_link "34ff50e3-947f-4a8c-a1cc-fc2bd57adb2d" "Basic Exploratory Research versus Guideline-Compliant Studies Used for Hazard Evaluation and Risk Assessment: Bisphenol A as a Case Study" %}}." *Environmental Health Perspectives* 117, no. 11 (2009): 1644–51.
 
 ### Recommended
 
@@ -364,7 +364,7 @@ Tyl, Rochelle W. "[Good Laboratory Practices: Tyl Responds](https://doi.org/10.1
 
 \[CO\] Chapter 4: Hormone Havoc.
 
-Landecker, Hannah, and Aaron Panofsky. "[From Social Structure to Gene Regulation, and Back: A Critical Introduction to Environmental Epigenetics for Sociology](https://doi.org/10.1146/annurev-soc-071312-145707)." *Annual Review of Sociology* 39 (2013): 333–57.
+Landecker, Hannah, and Aaron Panofsky. "{{% resource_link "b1240130-c21e-47d9-8282-2c5214b69032" "From Social Structure to Gene Regulation, and Back: A Critical Introduction to Environmental Epigenetics for Sociology" %}}." *Annual Review of Sociology* 39 (2013): 333–57.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -376,7 +376,7 @@ Climate Change: Why it Takes More than Information to Change Minds
 
 ### View Clips From
 
-[*Inuit Knowledge and Climate Change*](http://www.isuma.tv/inuit-knowledge-and-climate-change/movie). Directed by Zacharias Kanuk. Color, 54 min. 2010.
+{{% resource_link "1232f985-10fd-47a7-8fb4-32922bab6223" "*Inuit Knowledge and Climate Change*" %}}. Directed by Zacharias Kanuk. Color, 54 min. 2010.
 
 ### *Recommended*
 
@@ -402,27 +402,27 @@ Energy
 
 ### Screening
 
-[*GasLand*](http://one.gaslandthemovie.com/home). Directed by Josh Fox. Color, 107 min. 2010.
+{{% resource_link "d365b879-5325-4309-937a-d8d70db9bf8c" "*GasLand*" %}}. Directed by Josh Fox. Color, 107 min. 2010.
 
 {{< tdclose >}}{{< tdopen >}}
 
-Wylie, Sara. "[Shale Gas: Corporate Bodies and Chemical Bonds: An STS Analysis of Natural Gas Development in the United States](http://www.researchgate.net/publication/279819161_Corporate_bodies_and_chemical_bonds_an_STS_analysis_of_natural_gas_development_in_the_United_States)." 2012. (Forthcoming from Duke University Press.)
+Wylie, Sara. "{{% resource_link "cf385cd3-1980-4aa3-badf-8209c75bd000" "Shale Gas: Corporate Bodies and Chemical Bonds: An STS Analysis of Natural Gas Development in the United States" %}}." 2012. (Forthcoming from Duke University Press.)
 
 ### Recommended
 
-Bender, Bryan. "[MIT's Ernest Moniz Advised Oil and Gas Investors](https://www.bostonglobe.com/news/politics/2013/03/30/omama-energy-pick-discloses-industry-ties/DZZakS0jOGacmzoqogxHFL/story.html)," *Boston Globe*, March 30, 2013.
+Bender, Bryan. "{{% resource_link "e0e66f2e-720e-4f71-ab02-d120d30bd291" "MIT's Ernest Moniz Advised Oil and Gas Investors" %}}," *Boston Globe*, March 30, 2013.
 
-Efstathiou, Jr., Jim. "[Frackers Fund University Research That Proves Their Case](https://www.bloomberg.com/news/articles/2012-07-23/frackers-fund-university-research-that-proves-their-case)." *Bloomberg*, July 24, 2012.
+Efstathiou, Jr., Jim. "{{% resource_link "05238c8b-a698-416e-ac70-17fb88088389" "Frackers Fund University Research That Proves Their Case" %}}." *Bloomberg*, July 24, 2012.
 
-Moniz, Ernest J., Henry D. Jacoby, et al. ["The Future of Natural Gas: An Interdisciplinary MIT Study." (PDF - 7.3MB)](http://www.ourenergypolicy.org/wp-content/uploads/2012/01/MIT-NaturalGas-Report-Final.pdf)
+Moniz, Ernest J., Henry D. Jacoby, et al. {{% resource_link "3ac50acf-6d96-4e49-b40c-9b6aff20425f" "\"The Future of Natural Gas: An Interdisciplinary MIT Study.\" (PDF - 7.3MB)" %}}
 
-Navarro, Mireya. "[SUNY Buffalo Shuts Down Its Institute on Drilling](http://www.nytimes.com/2012/11/20/nyregion/suny-buffalo-will-end-controversial-fracking-institute.html)," *New York Times*, November 19, 2012.
+Navarro, Mireya. "{{% resource_link "1f83eb2f-aab0-414a-87dc-d6141ababb27" "SUNY Buffalo Shuts Down Its Institute on Drilling" %}}," *New York Times*, November 19, 2012.
 
-Public Accountability Initiative. ["Industry Partner or Industry Puppet?" (PDF)](http://public-accountability.org/wp-content/uploads/industry_partner_or_industry_puppet.pdf) March 2013.
+Public Accountability Initiative. {{% resource_link "41304a7e-e9c1-4c65-8b31-4c421061876c" "\"Industry Partner or Industry Puppet?\" (PDF)" %}} March 2013.
 
-Wogan, David. "[Industry Money and Questionable Ethics Contaminate UT Austin Fracking Study](https://blogs.scientificamerican.com/plugged-in/industry-money-and-questionable-ethics-contaminate-ut-austin-fracking-study/)." *Scientific American*, July 2012.
+Wogan, David. "{{% resource_link "b95414a5-c9fe-41e0-96b6-9cbd19189b70" "Industry Money and Questionable Ethics Contaminate UT Austin Fracking Study" %}}." *Scientific American*, July 2012.
 
-Wylie, Sara, Megan McLaughlin, et al. "[Public Laboratories: Designing and Developing tools for Do-It-Yourself Detection of Hazards](http://limn.it/public-laboratories-designing-and-developing-tools-for-do-it-yourself-detection-of-hazards/)." *Limn* 3, June 2013.
+Wylie, Sara, Megan McLaughlin, et al. "{{% resource_link "4aefa954-afad-4016-8f12-32d6389a0daf" "Public Laboratories: Designing and Developing tools for Do-It-Yourself Detection of Hazards" %}}." *Limn* 3, June 2013.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -440,40 +440,40 @@ No readings assigned
 
 ## Additional Recommended Readings
 
-Debaene, Vincent. "[A Case of Cultural Misunderstanding: French Anthropology in a Comparative Perspective](https://doi.org/10.1111/cuan.12031)." *Cultural Anthropology* 28, no. 4 (2013): 647–69.
+Debaene, Vincent. "{{% resource_link "7e849c2e-5162-43bb-891e-40cac5f5fd70" "A Case of Cultural Misunderstanding: French Anthropology in a Comparative Perspective" %}}." *Cultural Anthropology* 28, no. 4 (2013): 647–69.
 
 Garland, Elizabeth. "Prologue: Three Tales from the Wilds." In *State of Nature: Colonial Power, Neoliberal Capital, and Wildlife Management in Tanzania: Volume One.* Dissertation. University of Chicago, December 2006.
 
 ———. "Capturing Nature's Potential: Extraction and Sovereignty in the Nation's 'Protected' Areas." In *State of Nature: Colonial Power, Neoliberal Capital, and Wildlife Management in Tanzania: Volume One.* Dissertation. University of Chicago, December 2006.
 
-———. "[The Elephant in the Room: Confronting the Colonial Character of Wildlife Conservation in Africa](http://www.jstor.org/stable/27667379)." *African Studies Review* 51, no. 3 (2008): 51–74.
+———. "{{% resource_link "c1d475ad-cdd9-4df3-94d2-dae372f73a9f" "The Elephant in the Room: Confronting the Colonial Character of Wildlife Conservation in Africa" %}}." *African Studies Review* 51, no. 3 (2008): 51–74.
 
-Gessen, Keith. "[Polar Express: A Reporter at Large](http://www.newyorker.com/magazine/2012/12/24/polar-express)." *The New Yorker*, December 24 and 31, 2012.
+Gessen, Keith. "{{% resource_link "1d7fff9d-ca0a-43e8-9022-46c0441845ce" "Polar Express: A Reporter at Large" %}}." *The New Yorker*, December 24 and 31, 2012.
 
 Haraway, Donna. "Teddy Bear Patriarchy Taxidermy in the Garden of Eden, New York City, 1908–1936." Chapter 3 in *Primate Visions: Gender, Race, and Nature in the World of Modern Service*. Routledge, 1990. ISBN: 9780415902946.
 
-Heatherington, Tracey. "[The Changing Terrain of Environmentality: EIONET and the New Landscapes of Europe](https://doi.org/10.1353/anq.2012.0020)." *Anthropological Quarterly* 85, no. 2 (2012): 555–79.
+Heatherington, Tracey. "{{% resource_link "5844b706-dabd-4808-9a9f-c55f60d397e9" "The Changing Terrain of Environmentality: EIONET and the New Landscapes of Europe" %}}." *Anthropological Quarterly* 85, no. 2 (2012): 555–79.
 
-Kohn, Eduardo. "Introduction: *Runa Puma*." In *How Forests Think: Toward an Anthropology Beyond the Human*. University of California Press, 2013. ISBN: 9780520276116. \[Preview with [Google Books](http://books.google.com/books?id=GVMXAAAAQBAJ&pg=PA1=onepage)\]
+Kohn, Eduardo. "Introduction: *Runa Puma*." In *How Forests Think: Toward an Anthropology Beyond the Human*. University of California Press, 2013. ISBN: 9780520276116. \[Preview with {{% resource_link "84df2fe8-9094-437d-ba2a-3049941fc2f8" "Google Books" %}}\]
 
-———. "The Open Whole." Chapter 1 in *How Forests Think: Toward an Anthropology Beyond the Human*. University of California Press, 2013. ISBN: 9780520276116. \[Preview with [Google Books](http://books.google.com/books?id=GVMXAAAAQBAJ&pg=PA27=onepage)\]
+———. "The Open Whole." Chapter 1 in *How Forests Think: Toward an Anthropology Beyond the Human*. University of California Press, 2013. ISBN: 9780520276116. \[Preview with {{% resource_link "ba028364-5d04-4456-86aa-8d9dcdc09f9a" "Google Books" %}}\]
 
-Lowe, Celia. "[Making the Monkey: How the Togean Macaque Went from 'New Form' to 'Endemic Species' in Indonesians' Conservation Biology](https://doi.org/10.1525/can.2004.19.4.491)." *Cultural Anthropology* 19, no. 4 (2004): 491–516.
+Lowe, Celia. "{{% resource_link "e5205fe2-8832-41ba-a42c-b2e54cbe8a02" "Making the Monkey: How the Togean Macaque Went from 'New Form' to 'Endemic Species' in Indonesians' Conservation Biology" %}}." *Cultural Anthropology* 19, no. 4 (2004): 491–516.
 
-Murphy, Michelle. "['The Elsewhere Within Here' and Environmental Illness or How to Build Yourself a Body in a Safe Space](https://doi.org/10.1353/con.2000.0006)." *Configurations* 8, no. 1 (2000): 87–120.
+Murphy, Michelle. "{{% resource_link "53f097cf-9991-464c-8967-841306fcfb56" "'The Elsewhere Within Here' and Environmental Illness or How to Build Yourself a Body in a Safe Space" %}}." *Configurations* 8, no. 1 (2000): 87–120.
 
-Oreskes, Naomi, and Erik M. Conway. "The Denial of Global Warming." Chapter 6 in *Merchants of Doubt: How a Handful of Scientists Obscured the Truth from Tobacco Smoke to Global Warming*. Bloomsbury Press, 2011. ISBN: 9781608193943. \[Preview with [Google Books](http://books.google.com/books?id=CrtoNFTuPwwC&pg=PA169=onepage)\]
+Oreskes, Naomi, and Erik M. Conway. "The Denial of Global Warming." Chapter 6 in *Merchants of Doubt: How a Handful of Scientists Obscured the Truth from Tobacco Smoke to Global Warming*. Bloomsbury Press, 2011. ISBN: 9781608193943. \[Preview with {{% resource_link "6b0ab698-bcf4-48bf-9ef9-a5898be965b9" "Google Books" %}}\]
 
 Raffles, Hugh. "A Conjoined Fate." *Orion* 29, no. 1 (2010): 16–27.
 
 Walley, Christine. "Deindustrializing Chicago: A Daughter's Story." Chapter 6 in *The* *Insecure American: How We Got Here and What We Should Do about It*. Edited by Hugh Gusterson and Catherine Besteman. University of California Press, 2009. ISBN: 9780520259713.
 
-———. "Introduction." In *Exit Zero: Family and Class in Postindustrial Chicago*. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with [Google Books](http://books.google.com/books?id=noaQB6Pb8LAC&pg=PA1=onepage)\]
+———. "Introduction." In *Exit Zero: Family and Class in Postindustrial Chicago*. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with {{% resource_link "3e0ec0e9-80d6-4727-9f58-76405939ba35" "Google Books" %}}\]
 
-———. "A World of Iron and Steel: A Family Album." Chapter 1 in *Exit Zero: Family and Class in Postindustrial Chicago*. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with [Google Books](http://books.google.com/books?id=noaQB6Pb8LAC&pg=PA18=onepage)\]
+———. "A World of Iron and Steel: A Family Album." Chapter 1 in *Exit Zero: Family and Class in Postindustrial Chicago*. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with {{% resource_link "006dc8d3-e090-4e29-ad2e-4cb8ef5a7675" "Google Books" %}}\]
 
-———. "The Ties That Bind." Chapter 4 in *Exit Zero: Family and Class in Postindustrial Chicago*. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with [Google Books](http://books.google.com/books?id=noaQB6Pb8LAC&pg=PA117=onepage)\]
+———. "The Ties That Bind." Chapter 4 in *Exit Zero: Family and Class in Postindustrial Chicago*. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with {{% resource_link "715b476f-9f5f-4ba7-8b51-d49afa8b2cce" "Google Books" %}}\]
 
-———. "Notes to Chapter Four." In *Exit Zero: Family and Class in Postindustrial Chicago*. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with [Google Books](http://books.google.com/books?id=noaQB6Pb8LAC&pg=PA188=onepage)\]
+———. "Notes to Chapter Four." In *Exit Zero: Family and Class in Postindustrial Chicago*. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with {{% resource_link "8803347e-3af3-4c19-8d4c-78b74f04c876" "Google Books" %}}\]
 
 ———. "Bibliography." In *Exit Zero: Family and Class in Postindustrial Chicago*. University of Chicago Press, 2013. ISBN: 9780226871806.
